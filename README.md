@@ -6,7 +6,7 @@
 ="left"> <img src="https://komarev.com/ghpvc/?username=faqih-radaeng&label=Profile%20views&color=0e75b6&style=flat" alt="faqih-radaeng" /> </p>
 
 - 📫 How to reach me **faqih.radaeng@gmail.com**
-
+- 📜 My Certificate **https://shorturl.asia/NJyvU**
 - ⚡ Fun fact **I Like Anime and Game**
 
 <h3 align="left">Connect with me:</h3>
